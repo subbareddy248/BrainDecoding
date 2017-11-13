@@ -1,0 +1,3 @@
+Run the brain_decoding ipython notebook
+
+For each subject, create a folder and save all the corresponding .mat files.
